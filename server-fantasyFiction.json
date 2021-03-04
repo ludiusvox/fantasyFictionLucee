@@ -1,0 +1,8 @@
+{
+    "name":"fantasyFiction",
+    "web":{
+        "rewrites":{
+            "enable":"true"
+        }
+    }
+}
